@@ -33,7 +33,7 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `ghtub`,
+            name: `gihtub`,
             url: `https://github.com/kooohei/`,
           },
           {
